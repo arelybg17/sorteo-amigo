@@ -1,2 +1,2 @@
 # sorteo-amigo
-- Estado del proyecto en construccion
+- Estado del proyecto terminado
